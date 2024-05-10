@@ -1,0 +1,15 @@
+{
+  "Value": {
+    "Main.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "36bafd53-c046-40a8-a72f-f1750db437e7",
+        "ActivityIdRef": "NClick_2",
+        "ActivityId": "1.130",
+        "ActivityName": "Click Start",
+        "IsTransient": false
+      }
+    ]
+  }
+}
